@@ -1,9 +1,3 @@
-/*Lab.Assignment_B.Green.cpp
-Bryce Green
-4/23/2021
-Version 1.5
-The program uses a data structure in order to store four pieces of information about a movie and asks the user to input the information
-for two movies and it displays it back to the console.*/
 
 #include <iostream>
 #include <string> //needed for getline
